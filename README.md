@@ -1,5 +1,5 @@
 # nvc-rust
-Nvc port to rust
+Nvc port to rust because I have been wanting to learn it.
 ### Usage
 ```
 ./nvc /home/user/folder123
