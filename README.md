@@ -1,3 +1,5 @@
+# Disclaimer ⚠️
+This code does not represent code I write today.
 # nvc-rust
 Nvc port to rust because I have been wanting to learn it.
 ### Usage
